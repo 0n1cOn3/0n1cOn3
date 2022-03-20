@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **0n1cOn3@gmx.ch**
 
-- 📄 Know about my experiences [Sysadmin, Network Security, Customer Support in 1st/2nd/3rd Level](Sysadmin, Network Security, Customer Support in 1st/2nd/3rd Level)
+- 📄 Know about my experiences [Sysadmin, Network Security, Customer Support in 1st/2nd/3rd Level](Sysadmin, some kind of Network Security, Customer Support in 1st/2nd/3rd Level)
 
 - ⚡ Fun fact:
 **Most people are surprised about my bright knowledge - without any certification**
