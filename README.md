@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Several private projects**
 
-- 🌱 I’m currently learning **Grafana, Docker Swarm, Kubernetes**
+- 🌱 I’m currently learning **Grafana, Docker Swarm, Kubernetes, træfik**
 
 - 👯 I’m looking to collaborate on **with people who value my expertise**
 
