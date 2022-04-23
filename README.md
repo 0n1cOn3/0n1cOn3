@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Grafana, Docker Swarm, Kubernetes, træfik**
 
-- 👯 I’m looking to collaborate on **with people who value my expertise**
+- 👯 I’m looking to collaborate on **people who value my expertise**
 
 - 🤝 I’m looking for help with **Grafana, Docker Swarm, Kubernetes**
 
