@@ -10,9 +10,9 @@
 
 - 🤝 I’m looking for help with **Grafana, Docker Swarm, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://git.it-kuny.ch](https://git.it-kuny.ch)
+- 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch)
 
-- 📝 I unregularly write articles on [https://cybernity.group](https://cybernity.group)
+- 📝 I unregularly write articles on [Cybernity Forum](https://cybernity.group)
 
 - 💬 Ask me about **anything you would like to ask!**
 
