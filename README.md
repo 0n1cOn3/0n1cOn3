@@ -20,6 +20,8 @@
 
 - 📄 Know about my experiences [Soon available]
 
+- 📄 Github Rèsumè: [Here available](https://resume.github.io/?0n1cOn3)
+
 - ⚡ Fun fact **Build your house from stone and wood, go in and out peacefully! :D**
 
 <h3 align="left"> Checkout my Telegram Channel! 
