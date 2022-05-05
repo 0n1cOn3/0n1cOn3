@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
 
+- [📳 Fun :)](https://skyline.github.com/0n1cOn3/2022)
+
 <h3 align="left"> Checkout my Telegram Channel! 
 https://t.me/thehaxdump </h3>
 <h3 align="left">Languages and Tools:</h3>
