@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm 0n1cOn3/h@x</h1>
 <h3 align="center">A passionate open-source enthusiast and bash scripter from Switzerland</h3>
 
-- 🔭 I’m currently working on **Several private projects like Drunk Linux, ufolinux, self-hosting and a lot more**
+- 🔭 I’m currently working on **Several private projects like Evolnix, Ufo Linux, Self-Hosting and a lot more**
 
-- 🌱 I’m currently learning **Grafana, Docker, Kubernetes, træfik**
+- 🌱 I’m currently learning **Grafana, Docker, Kubernetes, træfik, ELK Stack**
 
 - 👯 I’m looking to collaborate with people who would like to work with me :)
 
-- 🤝 I’m looking for help with **Grafana, Docker Swarm, Kubernetes**
+- 🤝 I’m looking for help with **Grafana, Docker Swarm, Kubernetes, ELK Stack**
 
 - 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch)
 
