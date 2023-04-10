@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything you would like to ask!**
 
-- 📫 How to reach me **Telegram: h_2_o0**
+- 📫 How to reach me **Telegram: @h_2_o0**
 
 - 📄 Know about my experiences [Soon available]
 
@@ -24,7 +24,9 @@
 
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
 
-- [📳 Fun :)](https://skyline.github.com/0n1cOn3/2022)
+- [📳 Fun :)](https://skyline.github.com/0n1cOn3/2023)
+
+- 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.it-kuny.ch/hx)
 
 <h3 align="left"> Checkout my Telegram Channel! 
 https://t.me/thehaxdump </h3>
