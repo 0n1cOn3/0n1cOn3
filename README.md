@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Docker Swarm, Kubernetes, ELK Stack**
 
-- 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch)
+- 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch/hx)
 
 - 📝 I unregularly write articles on [Cybernity Forum](https://cybernity.group)
 
