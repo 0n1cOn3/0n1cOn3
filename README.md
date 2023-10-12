@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Several private projects like Evolnix, Ufo Linux, Self-Hosting in matter of privacy and independence of big orgs and a lot more**
 
-- 🌱 I’m currently learning **Grafana, træfik, ELK Stack**
+- 🌱 I’m currently learning **MS AD/DC & ELK Stack**
 
 - 👯 I’m looking to collaborate with people who would like to work with me :)
 
