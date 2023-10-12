@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0n1con3&label=Profile%20views&color=0e75b6&style=flat" alt="0n1con3" /> </p>
 <h1 align="center">Hi 👋, I'm 0n1cOn3/h@x</h1>
-<h3 align="center">A passionate open-source enthusiast and bash scripter from Europe</h3>
+<h3 align="center">A passionate open-source enthusiast and automator from Europe</h3>
 
-- 🔭 I’m currently working on **Several private projects like Evolnix, Ufo Linux, Self-Hosting in matter of privacy and independence of big orgs and a lot more**
+- 🔭 I’m currently working on **Several private projects like Nosial, Evolnix, Ufo Linux, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
 
 - 🌱 I’m currently learning **MS AD/DC & ELK Stack**
 
