@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm 0n1cOn3/h@x</h1>
 <h3 align="center">A passionate open-source enthusiast and automator from Europe</h3>
 
-- 🔭 I’m currently working on **Several private projects like Nosial, Evolnix, Ufo Linux, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
+- 🔭 I’m currently working on **Several private projects like Lilyhosting, Nosial, Evolnix, Ufo Linux, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
 
-- 🌱 I’m currently learning **MS AD/DC & ELK Stack**
+- 🌱 I’m currently learning **MS AD/DC & ELK Stack & BGP**
 
 - 👯 I’m looking to collaborate with people who would like to work with me :)
 
-- 🤝 I’m looking for help with **Docker Swarm, Kubernetes, ELK Stack**
+- 🤝 I’m looking for help with **BGP, Docker Swarm, Kubernetes, ELK Stack**
 
 - 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch/hx)
 
