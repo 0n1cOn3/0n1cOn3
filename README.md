@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
 
-- [📳 Fun :)](https://skyline.github.com/0n1cOn3/2023)
+- [📳 Fun :)](https://skyline.github.com/0n1con3/2023)
 
 - 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.it-kuny.ch/hx)
 
