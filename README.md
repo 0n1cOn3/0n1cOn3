@@ -26,13 +26,19 @@
 
 - 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.lainlounge.xyz/hx)
 
-<h3 align="left"> Checkout my Telegram Newsletter and more! 
-https://t.me/thenewsletterr </h3>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+____
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0n1con3&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="0n1con3" /></p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0n1con3&show_icons=true&theme=synthwave&locale=en" alt="0n1con3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0n1cOn3&show_icons=true&theme=transparent" alt="0n1cOn3's GitHub stats">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0n1con3" alt="0n1con3" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0n1con3&row=2&column=3" alt="0n1con3" /></a> </p>
+
+____
+
+
+<h4 align="center"> Checkout my Telegram Newsletter and more!</h4>
+<h4 align="center"> https://t.me/thenewsletterr</h4>
