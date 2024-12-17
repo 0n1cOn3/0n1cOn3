@@ -4,7 +4,7 @@
 <h4 align="center">If you are an employer in Switzerland (or anywhere else for that matter) who needs someone to mess around with your computers or servers, get in touch with me :-)</h4>
 
 
-- 🔭 I’m currently working on **Several private projects like Nosial, Evolnix, Ufo Linux, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
+- 🔭 I’m currently working on **Several private projects like Nosial, Zraxyl, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
 
 - 🌱 I’m currently learning **At the moment On-Hold**
 
