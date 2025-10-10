@@ -1,44 +1,45 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=0n1con3&label=Profile%20views&color=0e75b6&style=flat" alt="0n1con3" /> </p>
-<h1 align="center">Hi 👋, I'm 0n1cOn3/h@x</h1>
-<h3 align="center">A passionate open-source enthusiast and automator from Europe</h3>
-<h4 align="center">If you are an employer in Switzerland (or anywhere else for that matter) who needs someone to mess around with your computers or servers, get in touch with me :-)</h4>
+<h1 align="center">Hey 👋What's Up?</h1>
 
+Scripting and Codes are here be found :-)
 
-- 🔭 I’m currently working on **Several private projects like Nosial, The Private Cløud and Self-Hosting in matter of privacy and independence of big orgs and a lot more**
-
-- 🌱 I’m currently learning **At the moment On-Hold**
-
-- 👯 I’m looking to collaborate with people who would like to work with me :)
-
-- 🤝 I’m looking for help with **BGP, Docker Swarm, Kubernetes (k3s/k8s)**
-
-- 👨‍💻 All of my projects are available [here on my website](https://git.it-kuny.ch/hx)
-
-- 📝 I unregularly write articles on [Cybernity Forum](https://cybernity.group)
-
-- 💬 Ask me about **anything you would like to ask!**
+---
 
 - 📫 How to reach me **Telegram: @h_2_o0**
-
 - 📄 Github Rèsumè: [Here available](https://resume.github.io/?0n1cOn3)
-
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
-
 - 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.lainlounge.xyz/hx)
 
-____
+###
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<br clear="both">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0n1cOn3&show_icons=true&theme=transparent" alt="0n1cOn3's GitHub stats">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="60" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="60" alt="cmake logo"  />
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0n1con3&row=2&column=3" alt="0n1con3" /></a> </p>
+###
 
-____
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=0n1cOn3&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=0n1cOn3&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 
-<h4 align="center"> Checkout my Telegram Newsletter and more!</h4>
-<h4 align="center"> https://t.me/thenewsletterr</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0n1cOn3/0n1cOn3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0n1cOn3/0n1cOn3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0n1cOn3/0n1cOn3/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+###
