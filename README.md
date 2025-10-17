@@ -7,7 +7,7 @@ Scripting and Codes are here to be found :-)
 - 📫 How to reach me **Telegram: @h_2_o0**
 - 📄 Github Rèsumè: [Here available](https://resume.github.io/?0n1cOn3)
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
-- 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.lainlounge.xyz/hx)
+- 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.lainlounge.org/hx)
 
 ###
 
