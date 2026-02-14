@@ -6,8 +6,9 @@ Scripting and Codes are here to be found :-)
 
 - 📫 How to reach me **Telegram: @h_2_o0**
 - 📄 Github Rèsumè: [Here available](https://resume.github.io/?0n1cOn3)
+- 🔧 Infrastructure & Tools: [@IT-Kuny](https://github.com/IT-Kuny)
+- 📀 More projects: [git.lainlounge.org/hx](https://git.lainlounge.org/hx) · [git.n64.cc/hx](https://git.n64.cc/hx)
 - ⚡ Fun fact: **Build your house from stone and wood, go in and out peacefully! :D**
-- 📀 More about other projects are [here](https://git.n64.cc/hx) and [here](https://git.lainlounge.org/hx)
 
 ###
 
@@ -39,7 +40,5 @@ Scripting and Codes are here to be found :-)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0n1cOn3/0n1cOn3/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/0n1cOn3/0n1cOn3/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ###
