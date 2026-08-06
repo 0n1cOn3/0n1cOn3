@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey Buddy 👋What's Up?</h1>
 
 Scripting and Codes are here to be found :-)
 
